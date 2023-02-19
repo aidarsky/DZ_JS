@@ -1,0 +1,22 @@
+#data{
+    background-color: yellow;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+
+}
+#btn{
+    background-color: #7dad27;
+    border-radius: 10px;
+    height: 32px;
+    color: white;
+    border: rgba(151, 178, 25, 0.95);
+    margin-bottom: 20px;
+}
+.h{
+    text-align: center;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}

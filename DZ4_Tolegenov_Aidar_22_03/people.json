@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Nurdin",
+    "age": 19,
+    "position": "attact"
+  },
+  {
+    "name": "Aidar",
+    "age": 22
+ ,
+    "position": "attact"
+  },
+  {
+    "name": "Kairat",
+    "age": 22,
+    "position": "golkeeper"
+  },
+  {
+    "name": "Adilet",
+    "age": 19,
+    "position": "defender"
+  },
+  {
+    "name": "Felix",
+    "age": 20,
+    "position":"defender"
+  }
+]
