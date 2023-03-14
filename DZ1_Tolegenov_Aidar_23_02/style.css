@@ -1,0 +1,31 @@
+.block{
+    position: relative;
+    width: 500px;
+    height: 50px;
+    border: 1px solid;
+}
+
+.box{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+
+}
+.container{
+    width: 300px;
+    border: solid;
+
+
+}
+.mail{
+    border: solid;
+    text-align: center;
+    height: 100px;
+
+}
+.passWord{
+    border: solid;
+    text-align: center;
+    height: 100px;
+}
